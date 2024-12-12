@@ -1,0 +1,7 @@
+### **Front-End vs Back-End Coding**
+
+- **Front-End Code**: Kasama sa front-end code ang **HTML**, **CSS**, at **JavaScript**—mga file na direktang ipinapadala sa iyong browser, kung saan ito ay binabasa at ipinapakita. Ang front-end code ay ganap na nakikita ng sinuman, kaya maaari mo itong tingnan sa pamamagitan ng pag-right click sa webpage at pagpili ng "View Source" o "Inspect." Dahil dito, hindi dapat maglaman ang front-end code ng sensitibong impormasyon, tulad ng mga password.
+
+- **Back-End Code**: Hindi tulad ng front-end code, ang **back-end code** (na isinulat gamit ang mga wika tulad ng **Python**, **Node.js**, o **Java**) ay tumatakbo sa isang server at nakatago mula sa mga user. Ang layunin nito ay pamahalaan ang data, mag-handle ng mga logic, at lumikha ng HTML na natatanggap ng iyong browser. Ang back-end ay ideal para sa ligtas na pamamahala ng sensitibong impormasyon (halimbawa, mga password, mga detalye ng credit card), na maaaring i-store sa isang database. Ang data na ito ay ipoproseso ng back-end, kaya maaari kang mag-login o kumuha ng impormasyon.
+
+Kung nagsisimula ka pa lang, magsimula sa **HTML** dahil ito ang nagbibigay ng pundasyon. Habang umuusad ka, maaari mong tuklasin ang mga papel ng front-end at back-end code at kung paano sila nagtutulungan upang makabuo ng interactive at secure na mga website.

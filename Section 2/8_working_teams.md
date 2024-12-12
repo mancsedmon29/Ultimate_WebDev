@@ -1,0 +1,13 @@
+### **Working in Teams as a Web Developer**
+
+Ang **modern web development** ay malaki ang papel ng **collaboration**, kung saan madalas na may koordinasyon sa iba pang mga developers at team. Hindi tulad ng mga solo workflows ng dalawang dekada na ang nakalipas, ang mga developers ngayon ay nagtatrabaho sa mga synchronized environments, palaging nagbabahagi at nire-review ang code. Mahalaga ang **collaboration** hindi lang sa pagbuo ng mga proyekto, kundi pati na rin sa pagpapanatili ng kalidad ng code, pag-unawa sa mga shared goals, at paglutas ng mga kumplikadong isyu.
+
+1. **Version Control with Git**: Ang **Git** ay isang **version control tool** na malawakang ginagamit para sa code collaboration. Tumutulong ito sa mga developers upang magbahagi ng code nang maayos, subaybayan ang mga pagbabago, at ibalik sa nakaraang bersyon kung kinakailangan. Sa Git, maaari kang gumawa ng snapshots ng iyong code, na tinatawag na **"commits"**, kaya madali mong maibabalik ang isang dating bersyon kung may mga pagkakamali.
+
+2. **Platforms like GitHub and GitLab**: Ang **GitHub** at **GitLab** ay mga platform na nagho-host ng mga **Git repositories**, na nagbibigay ng espasyo para sa mga developers na i-upload ang kanilang code upang ma-access, ma-review, at ma-edit ito ng kanilang mga kasamahan sa team. Ang mga platform na ito ay may kakayahan ding mag-enable ng **"branching"**, na nagpapahintulot sa mga developers na magtrabaho sa magkahiwalay na features nang mag-isa at pagkatapos ay pagsamahin ito sa main codebase nang walang interference.
+
+3. **Distributed Development**: Ang Git ay nagsusuporta sa **distributed development**, kung saan ang bawat miyembro ng team ay may lokal na kopya ng code. Mahalaga ito kapag nagtatrabaho ang team sa iba’t ibang time zones o lokasyon, dahil pinapayagan nito ang ibang mga miyembro ng team na ipagpatuloy ang mga gawain mula sa huling itinigil ng isa pang miyembro ng team.
+
+4. **Backup and Recovery**: Ang Git ay nagsisilbi ring **backup system**. Sa pamamagitan ng pag-save ng mga commits sa isang remote GitHub o GitLab repository, pinipigilan ng mga developers ang pagkawala ng data at maaari nilang i-recover ang code kung may mangyaring problema sa kanilang lokal na mga file.
+
+Ang **pagtutok at mastering** ng Git ay isang mahalagang kasanayan para sa sinumang web developer. Isa itong **critical tool** sa halos lahat ng team, na tumutulong sa mahusay na collaboration, **code management**, at **version history**.
